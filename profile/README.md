@@ -1,4 +1,4 @@
-**Brook Code Theme**
+**One Thing Theme**
 
 _"Minimal & simple dark, light and gray style code editor theme"_
 
