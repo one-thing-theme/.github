@@ -8,6 +8,10 @@ A mono chrome with minimal looks and simple styles code editor themes for light 
 
 - VSCode
 - Zed Editor
+- Ghostty
+- Oh my posh
+- Shiki
+- Bat
 - Code snippets
 - Others
 
