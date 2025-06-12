@@ -4,6 +4,8 @@ _"Minimal & simple dark, light and gray style code editor theme"_
 
 <br/>
 
+See [official site](https://onethingtheme.vercel.app)
+
 A mono chrome with minimal looks and simple styles code editor themes for light & dark environments for perfect developer productivity
 
 - [Visual Studio Code](https://github.com/one-thing-theme/vscode)
