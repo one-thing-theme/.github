@@ -6,12 +6,12 @@ _"Minimal & simple dark, light and gray style code editor theme"_
 
 A mono chrome with minimal looks and simple styles code editor themes for light & dark environments for perfect developer productivity
 
-- VSCode
-- Zed Editor
-- Ghostty
-- Oh my posh
+- [Visual Studio Code](https://github.com/one-thing-theme/vscode)
+- [Zed](https://github.com/one-thing-theme/zed)
+- [Ghostty](https://github.com/one-thing-theme/ghostty)
+- [Oh my posh](https://github.com/one-thing-theme/oh-my-posh)
 - Shiki
-- Bat
+- [Bat](https://github.com/one-thing-theme/bat)
 - Code snippets
 - Others
 
